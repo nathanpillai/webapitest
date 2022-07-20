@@ -8,6 +8,8 @@ Swagger API UI
 ![image](https://user-images.githubusercontent.com/6185505/179887402-2b004bfb-32c5-4aba-bb0b-a265f66fab93.png)
 
 Health check ok without ApiKey
+
+
 ![image](https://user-images.githubusercontent.com/6185505/179887654-bb060a0d-71a1-4b3f-a948-3e0249792762.png)
 
 Get Method UI Test with ApiKey Authentication
